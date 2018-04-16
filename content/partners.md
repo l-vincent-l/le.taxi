@@ -3,7 +3,6 @@ Description: Le.Taxi : Plate-forme nationale de mise en relation client / taxi
 Template: partners
 clients: nom, type, logo, playstoreid, appstoreid, web, available, price, pricedetails
      tedyCab, , images/team/tedycab.png, com.transdev.tedycab, id1084982482, , yes, gratuit,
-     Zaléou, , images/team/zaleou.png, biz.ixxi.opendatataxi, id1055739408, , yes, gratuit,
      Mon Appli Taxi, , images/team/montaxi.png, com.taxibleuservices.mytaxi, id953924194, , yes, gratuit,
      Taxiloc, , images/team/taxiloc.png, com.deveryware.tram.taxiloc.client, id511899249, , yes, gratuit,
      Tako, , images/team/tako_new.png, co.triperz.android, id1052233930, http://www.tak-o.com, yes, gratuit,
@@ -13,7 +12,6 @@ drivers: nom, type, logo, playstoreid, appstoreid, web, available, price, priced
      Axygest, Équipementier, images/team/axygest.png, , , http://www.axygest.fr/, yes,,
      Mon Appli Taxi, Opérateur, images/team/montaxichauffeur.png, com.taxibleuservices.mytaxicorp, id954025129, , yes,,
      Taxi Bleu du Midi, Opérateur, images/team/tbdm.png, , , http://www.taxibleudumidi.fr/, yes,,
-     TaxiProxi, Opérateur, images/team/taxiproxi.png, com.desclick.taxiproxi, id510336055, , yes,,
      T.R.A.M Montpellier, Opérateur, images/team/tram.png, , , http://www.taxi-tram.fr/, yes,,
      UNT, Partenaire, images/team/unt.png, , , http://www.u-n-t.fr/, yes,,
      Mob1Taxi, Opérateur, images/team/mob1taxi.png , net.mobitaxi, , , yes,,
@@ -23,7 +21,6 @@ drivers: nom, type, logo, playstoreid, appstoreid, web, available, price, priced
      Tessa, Équipementier, images/team/tessa.png, , , http://www.tessa.eu.com/, yes,,
      Taxis Radio Aixois, Opérateur, images/team/taxisradioaixois.png, , , http://www.taxisradioaixois.com/, yes,,
      Les Taxis Marseillais, Opérateur, images/team/taxis-marseillais.png, , , http://lestaxismarseillais.fr/, yes,,
-     Taxis Connect, Opérateur, images/team/taxisconnect.png, com.taxisconnect.driver, id730972682, , no,,
      Allo Taxi Roubaix Tourcoing, Opérateur, images/team/allotaxiroubaix.png, , ,http://www.pagesjaunes.fr/pros/54688802 , yes,,
      Alpha Taxis, Opérateur, images/team/alphataxis.png, , , http://site.alphataxis.fr/, yes,,
      Atlantis Taxis, Opérateur, images/team/atlantis.png, , , http://www.atlantistaxis.net/, yes,,
@@ -31,6 +28,5 @@ drivers: nom, type, logo, playstoreid, appstoreid, web, available, price, priced
      Taxis Rennais, Opérateur, images/team/taxisrennais.png, , , http://www.taxisrennais.fr/, yes,,
      Abeilles Taxis La Rochelle, Opérateur, images/team/abeilles-taxis-la-rochelle.png, , , http://www.taxi-la-rochelle.com/, yes,,
      1001Taxis, Opérateur, images/team/zz1001taxis.png, com.apps1001cabs.drivers.apps1001taxis,, , no,,
-     Taxi Radio Béziers, Opérateur, images/team/taxiradiobeziers.png,,,, no,, 
      Tako chauffeur, Opérateur, images/team/tako_chauffeur.png, co.triperz.chauffeur, id1185925940, http://www.tak-o.com/chauffeurs, yes, gratuit,
      DOKO, Opérateur, images/team/dokodriver.png, city.doko.driver, id1213032489, http://www.doko.city , yes,gratuit *, * pendant 3 mois
